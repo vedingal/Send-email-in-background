@@ -1,4 +1,4 @@
-#How to Send Email in Background (Android)
+Send Email in Background (Android)
 
 ## How to Use:
 1. Clone this project
